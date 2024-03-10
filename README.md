@@ -20,4 +20,3 @@ The system allows for experimenting with various numbers of principal components
 
 ### 3. Faiss
 Faiss is a powerful library for efficient similarity search and clustering. In this system, Faiss is utilized to index and retrieve faces based on their reduced feature representations. 
-Different configurations of Faiss indices are explored to find an optimal setup for face retrieval.
