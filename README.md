@@ -4,7 +4,7 @@
 
 The Image Retrieval System is a Python-based application that leverages state-of-the-art techniques in computer vision and machine learning to perform face recognition and retrieval. 
 This system employs the VGGFace architecture for feature extraction, Principal Component Analysis (PCA) for dimensionality reduction, and Faiss with inner product distance for efficient similarity search. 
-The primary goal of the system is to evaluate the impact of different configurations on precision and accuracy in face recognition and retrieval tasks.<be>
+The primary goal of the system is to evaluate the impact of different configurations on precision and accuracy in face recognition and retrieval tasks.<br>
 Here's an overview of the project:
 
 - **Project Report**: For a comprehensive understanding of our project, delve into the [**project_report.pdf**](https://github.com/villifCoder559/VGGFaceFeatures_PCA/blob/main/project_report.pdf). It contains detailed insights, methodologies, results, and discussions.
